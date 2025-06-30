@@ -1,6 +1,6 @@
-# 📰 NewsMonkey - Your Daily Dose of News
+# 📰 DailyDigest - Your Daily Dose of News
 
-**NewsMonkey** is a simple, beginner-friendly React project that provides the latest news updates from various categories such as Politics, Sports, Weather, Technology, and more. This project is designed to help beginners practice core frontend skills like React components, props, state management, and routing.
+**DailyDigest** is a simple, beginner-friendly React project that provides the latest news updates from various categories such as Politics, Sports, Weather, Technology, and more. This project is designed to help beginners practice core frontend skills like React components, props, state management, and routing.
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## 📂 Project Structure
 
-NewsMonkey/
+DailyDigest/
 ├── public/
 ├── src/
 │ ├── components/
@@ -49,8 +49,8 @@ NewsMonkey/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/NewsMonkey.git
-   cd NewsMonkey
+   git clone https://github.com/your-username/DailyDigest.git
+   cd DailyDigest
    npm install
    npm start
    http://localhost:3000
