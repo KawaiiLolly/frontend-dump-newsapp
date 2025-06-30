@@ -5,7 +5,7 @@ const NavBar = () => {
       <nav className="navbar navbar-expand-lg bg-body-tertiary fixed-top">
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">
-            NewsMonkey
+            DailyDigest
           </Link>
           <button
             className="navbar-toggler"
